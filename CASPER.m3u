@@ -5,65 +5,65 @@
 
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/indihometv.com.xml, https://iptv-org.github.io/epg/guides/id/mncvision.id.xml, https://iptv-org.github.io/epg/guides/id/transvision.co.id.xml, https://iptv-org.github.io/epg/guides/id/vidio.com.xml, https://iptv-org.github.io/epg/guides/ms/astro.com.my.xml, https://iptv-org.github.io/epg/guides/en/unifi.com.my.xml, https://iptv-org.github.io/epg/guides/sr/tvarenasport.com.xml, https://iptv-org.github.io/epg/guides/en/tvpassport.com.xml, https://iptv-org.github.io/epg/guides/pt/mi.tv.xml, https://iptv-org.github.io/epg/guides/en/plex.tv.xml, https://iptv-org.github.io/epg/guides/pt/meo.pt.xml, https://iptv-org.github.io/epg/guides/en/bt.com.xml, https://iptv-org.github.io/epg/guides/en/sky.com.xml, https://iptv-org.github.io/epg/guides/en/ontvtonight.com.xml, https://iptv-org.github.io/epg/guides/en/i.mjh.nz.xml, https://iptv-org.github.io/epg/guides/en/directv.com.xml, https://iptv-org.github.io/epg/guides/en/tvguide.com.xml, https://iptv-org.github.io/epg/guides/ko/wavve.com.xml, https://iptv-org.github.io/epg/guides/sv/allente.se.xml, https://iptv-org.github.io/epg/guides/en/rev.bs.xml, https://iptv-org.github.io/epg/guides/en/startimestv.com.xml, https://iptv-org.github.io/epg/guides/ja/tvguide.myjcom.jp.xml, https://iptv-org.github.io/epg/guides/ru/tv.yandex.ru.xml, https://iptv-org.github.io/epg/guides/zh/tv.cctv.com.xml, https://iptv-org.github.io/epg/guides/en/virginmedia.com.xml, https://iptv-org.github.io/epg/guides/en/nowplayer.now.com.xml, https://iptv-org.github.io/epg/guides/cs/m.tv.sms.cz.xml, https://iptv-org.github.io/epg/guides/ar/beinsports.com.xml, https://iptv-org.github.io/epg/guides/en/beinsports.com.xml, https://iptv-org.github.io/epg/guides/en/starhubtvplus.com.xml, https://iptv-org.github.io/epg/guides/tr/digiturk.com.tr.xml, https://iptv-org.github.io/epg/guides/fr/beinsports.com.xml, https://iptv-org.github.io/epg/guides/th/tv.trueid.net.xml, https://iptv-org.github.io/epg/guides/fr/canalplus.com.xml, https://iptv-org.github.io/epg/guides/es/movistarplus.es.xml, https://iptv-org.github.io/epg/guides/nl/tvgids.nl.xml, https://iptv-org.github.io/epg/guides/pt/meo.pt.xml, https://iptv-org.github.io/epg/guides/en/dstv.com.xml, https://iptv-org.github.io/epg/guides/ro/programetv.ro.xml, https://iptv-org.github.io/epg/guides/fr/programme-tv.net.xml, https://iptv-org.github.io/epg/guides/bg/tv.dir.bg.xml, https://iptv-org.github.io/epg/guides/hr/tvprofil.com.xml, https://iptv-org.github.io/epg/guides/en/dishtv.in.xml, https://iptv-org.github.io/epg/guides/es/movistarplus.es.xml, https://iptv-org.github.io/epg/guides/de/sky.de.xml" refresh="3600"
 
-#EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="https://dl.dropboxusercontent.com/s/acfrk26rhbaqpqd/sctv.png" group-title="Lokal",SCTV
+#EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="https://dl.dropboxusercontent.com/s/acfrk26rhbaqpqd/sctv.png" group-title="INDONESIA",SCTV
 http://210.210.155.37/qwr9ew/s/s03/index.m3u8
 #https://cdn09jtedge.indihometv.com/dvr/139/sctv/manifest.mpd
 
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://dl.dropboxusercontent.com/s/eqbvbf28z4cj4zw/indosiar.png" group-title="Lokal",Indosiar
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://dl.dropboxusercontent.com/s/eqbvbf28z4cj4zw/indosiar.png" group-title="INDONESIA",Indosiar
 http://210.210.155.37/qwr9ew/s/s04/index.m3u8
 
-#EXTINF:-1 tvg-id="NET.id" tvg-name="NET.TV" tvg-logo="https://dl.dropboxusercontent.com/s/fplpsm57no899e8/net.png" group-title="Lokal",NET.
+#EXTINF:-1 tvg-id="NET.id" tvg-name="NET.TV" tvg-logo="https://dl.dropboxusercontent.com/s/fplpsm57no899e8/net.png" group-title="INDONESIA",NET.
 http://210.210.155.37/uq2663/h/h06/index.m3u8
 
-#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://dl.dropboxusercontent.com/s/62ryx1k6tdaeygm/rcti.png" group-title="Lokal",RCTI
+#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://dl.dropboxusercontent.com/s/62ryx1k6tdaeygm/rcti.png" group-title="INDONESIA",RCTI
 https://m-rcti.rctiplus.id/rcti-sdi.m3u8|referer=https://m.rctiplus.com/
 
-#EXTINF:-1 tvg-id="GTV.id" tvg-name="GTV" tvg-logo="https://dl.dropboxusercontent.com/s/fcc2sbh556rtp08/gtv.png" group-title="Lokal",GTV
+#EXTINF:-1 tvg-id="GTV.id" tvg-name="GTV" tvg-logo="https://dl.dropboxusercontent.com/s/fcc2sbh556rtp08/gtv.png" group-title="INDONESIA",GTV
 https://m-gtv.rctiplus.id/gtv-sdi.m3u8|referer=https://m.rctiplus.com/
 
-#EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNC TV" tvg-logo="https://dl.dropboxusercontent.com/s/541aydqr502xl5z/mnctv.png" group-title="Lokal",MNC TV
+#EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNC TV" tvg-logo="https://dl.dropboxusercontent.com/s/541aydqr502xl5z/mnctv.png" group-title="INDONESIA",MNC TV
 https://m-mnctv.rctiplus.id/mnctv-sdi.m3u8|referer=https://m.rctiplus.com/
 
-#EXTINF:-1 tvg-id="INews.id" tvg-name="INews" tvg-logo="https://dl.dropboxusercontent.com/s/vxm41wbiyfmhbx1/inews.png" group-title="Lokal",INews
+#EXTINF:-1 tvg-id="INews.id" tvg-name="INews" tvg-logo="https://dl.dropboxusercontent.com/s/vxm41wbiyfmhbx1/inews.png" group-title="INDONESIA",INews
 https://m-inews.rctiplus.id/inews-sdi.m3u8|referer=https://m.rctiplus.com/
 
-#EXTINF:-1 tvg-id="TransTV.id" tvg-name="Trans TV" tvg-logo="https://dl.dropboxusercontent.com/s/9kjgtxf2mufmyd2/transtv.png" group-title="Lokal",Trans TV
+#EXTINF:-1 tvg-id="TransTV.id" tvg-name="Trans TV" tvg-logo="https://dl.dropboxusercontent.com/s/9kjgtxf2mufmyd2/transtv.png" group-title="INDONESIA",Trans TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1418834012_b744100_sleng.m3u8
 #https://cdn09jtedge.indihometv.com/dvr/139/transtv/manifest.mpd
 
-#EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans7" tvg-logo="https://dl.dropboxusercontent.com/s/p4813vn2o8275z1/trans7.png" group-title="Lokal",Trans 7
+#EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans7" tvg-logo="https://dl.dropboxusercontent.com/s/p4813vn2o8275z1/trans7.png" group-title="INDONESIA",Trans 7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1509218743_b744100_sleng.m3u8
 #https://cdn09jtedge.indihometv.com/dvr/139/trans7/manifest.mpd
 
-#EXTINF:-1 tvg-id="RajawaliTV.id" tvg-name="Rajawali TV" tvg-logo="https://dl.dropboxusercontent.com/s/gw7a9w0miy795vy/rtv.png" group-title="Lokal",RTV
+#EXTINF:-1 tvg-id="RajawaliTV.id" tvg-name="Rajawali TV" tvg-logo="https://dl.dropboxusercontent.com/s/gw7a9w0miy795vy/rtv.png" group-title="INDONESIA",RTV
 http://210.210.155.37/dr9445/h/h10/index.m3u8
 
-#EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="https://dl.dropboxusercontent.com/s/8n9oj3d529o9w1g/antv.png" group-title="Lokal",ANTV
+#EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="https://dl.dropboxusercontent.com/s/8n9oj3d529o9w1g/antv.png" group-title="INDONESIA",ANTV
 http://210.210.155.37/qwr9ew/s/s07/index1.m3u8
 
-#EXTINF:-1 tvg-id="tvOne.id" tvg-name="tvOne" tvg-logo="https://dl.dropboxusercontent.com/s/v0c8ypclystuwkg/tvone.png" group-title="Lokal",TVOne
+#EXTINF:-1 tvg-id="tvOne.id" tvg-name="tvOne" tvg-logo="https://dl.dropboxusercontent.com/s/v0c8ypclystuwkg/tvone.png" group-title="INDONESIA",TVOne
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1675861369/ei/GUnjY_O-CYq71wK0_6yQCg/ip/92.205.15.128/id/yNKvkPJl-tg.3/source/yt_live_broadcast/requiressl/yes/tx/24416442/txs/24416436%2C24416437%2C24416438%2C24416439%2C24416440%2C24416441%2C24416442/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgSC9rtOSQksR8Z1rGSH_XS3kjoPWVMXr_0HSWXRXVbWcCIAJU6CwP6S_17aoSRO3yd9SdJLWHwwyGXjd1ogieWDA7/file/index.m3u8
 
-#EXTINF:-1 tvg-id="MetroTV.id" tvg-name="Metro TV" tvg-logo="https://dl.dropboxusercontent.com/s/aswki0zykc42s1o/metrotv.png" group-title="Lokal",Metro TV
+#EXTINF:-1 tvg-id="MetroTV.id" tvg-name="Metro TV" tvg-logo="https://dl.dropboxusercontent.com/s/aswki0zykc42s1o/metrotv.png" group-title="INDONESIA",Metro TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="KompasTV.id" tvg-name="Kompas TV" tvg-logo="https://dl.dropboxusercontent.com/s/4mga5xltpd3ygxn/kompastv.png" group-title="Lokal",Kompas TV
+#EXTINF:-1 tvg-id="KompasTV.id" tvg-name="Kompas TV" tvg-logo="https://dl.dropboxusercontent.com/s/4mga5xltpd3ygxn/kompastv.png" group-title="INDONESIA",Kompas TV
 http://210.210.155.37/qwr9ew/s/s104/index.m3u8
 
-#EXTINF:-1 tvg-id="NusantaraTV.id" tvg-name="Nusantara TV" tvg-logo="https://dl.dropboxusercontent.com/s/06wiut4q11q92mc/nusantaratv.png" group-title="Lokal",Nusantara TV
+#EXTINF:-1 tvg-id="NusantaraTV.id" tvg-name="Nusantara TV" tvg-logo="https://dl.dropboxusercontent.com/s/06wiut4q11q92mc/nusantaratv.png" group-title="INDONESIA",Nusantara TV
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 #https://cdn09jtedge.indihometv.com/dvr/139/nusantaratv/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/38kg8t87gin4h15/indonesiana.png" group-title="Lokal",Indonesiana TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/38kg8t87gin4h15/indonesiana.png" group-title="INDONESIA",Indonesiana TV
 https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/playlist.m3u8
 
-#EXTINF:-1 tvg-id="JPMTV.id" tvg-name="JPM TV" tvg-logo="https://dl.dropboxusercontent.com/s/bw4u1eouvf2n9eg/jpm.png" group-title="Lokal",JPM TV
+#EXTINF:-1 tvg-id="JPMTV.id" tvg-name="JPM TV" tvg-logo="https://dl.dropboxusercontent.com/s/bw4u1eouvf2n9eg/jpm.png" group-title="INDONESIA",JPM TV
 http://122.248.43.138:1935/ch6/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MagnaChannel.id" tvg-name="Magna Channel" tvg-logo="https://dl.dropboxusercontent.com/s/siolbyggijbn3f9/magna.png" group-title="Lokal",Magna Channel
+#EXTINF:-1 tvg-id="MagnaChannel.id" tvg-name="Magna Channel" tvg-logo="https://dl.dropboxusercontent.com/s/siolbyggijbn3f9/magna.png" group-title="INDONESIA",Magna Channel
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ElshintaTV.id" tvg-name="Elshinta TV" tvg-logo="https://dl.dropboxusercontent.com/s/uv6lxmw5ed4hgiz/elshintatv.png" group-title="Lokal",Elshinta TV
+#EXTINF:-1 tvg-id="ElshintaTV.id" tvg-name="Elshinta TV" tvg-logo="https://dl.dropboxusercontent.com/s/uv6lxmw5ed4hgiz/elshintatv.png" group-title="INDONESIA",Elshinta TV
 http://210.210.155.37/qwr9ew/s/s10/index.m3u8
 
 #EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-name="CNN Indonesia" tvg-logo="https://dl.dropboxusercontent.com/s/3otsx9tmmh18aqn/cnnindo.png" group-title="Berita",CNN Indonesia
@@ -501,6 +501,7 @@ https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RTBGo.bn" tvg-name="RTB Go" tvg-logo="https://rtb-images.glueapi.io/300x0/live/GoLiveNew.png" group-title="Religi",RTB Go Live
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
+
 
 
 ======VOD FILM INDO =======
