@@ -42,7 +42,7 @@ http://210.210.155.37/dr9445/h/h10/index.m3u8
 http://210.210.155.37/qwr9ew/s/s07/index1.m3u8
 
 #EXTINF:-1 tvg-id="tvOne.id" tvg-name="tvOne" tvg-logo="https://dl.dropboxusercontent.com/s/v0c8ypclystuwkg/tvone.png" group-title="Lokal",TVOne
-http://210.210.155.37/qwr9ew/s/s105/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1675861369/ei/GUnjY_O-CYq71wK0_6yQCg/ip/92.205.15.128/id/yNKvkPJl-tg.3/source/yt_live_broadcast/requiressl/yes/tx/24416442/txs/24416436%2C24416437%2C24416438%2C24416439%2C24416440%2C24416441%2C24416442/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgSC9rtOSQksR8Z1rGSH_XS3kjoPWVMXr_0HSWXRXVbWcCIAJU6CwP6S_17aoSRO3yd9SdJLWHwwyGXjd1ogieWDA7/file/index.m3u8
 
 #EXTINF:-1 tvg-id="MetroTV.id" tvg-name="Metro TV" tvg-logo="https://dl.dropboxusercontent.com/s/aswki0zykc42s1o/metrotv.png" group-title="Lokal",Metro TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
