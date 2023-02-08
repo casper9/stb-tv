@@ -502,34 +502,6 @@ https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
 #EXTINF:-1 tvg-id="RTBGo.bn" tvg-name="RTB Go" tvg-logo="https://rtb-images.glueapi.io/300x0/live/GoLiveNew.png" group-title="Religi",RTB Go Live
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="https://dl.dropboxusercontent.com/s/acfrk26rhbaqpqd/sctv.png" group-title="Vision",SCTV
-https://visionplus-stream.visionplus.id/live/eds/SCTV-intel/sa_hls/SCTV-intel-avc1_2499968=6-mp4a_98800_eng=3.m3u8
-
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://dl.dropboxusercontent.com/s/eqbvbf28z4cj4zw/indosiar.png" group-title="Vision",Indosiar
-https://visionplus-stream.visionplus.id/live/eds/INDOSIAR-ryzen/sa_hls/INDOSIAR-ryzen-avc1_2499968=6-mp4a_98800_eng=3.m3u8
-
-#EXTINF:-1 tvg-id="NET.id" tvg-name="NET.TV" tvg-logo="https://dl.dropboxusercontent.com/s/fplpsm57no899e8/net.png" group-title="Vision",NET.TV
-https://visionplus-stream.visionplus.id/live/eds/NetTV-M1/sa_hls/NetTV-M1-avc1_2499968=1-mp4a_98800_eng=3.m3u8
-
-#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://dl.dropboxusercontent.com/s/62ryx1k6tdaeygm/rcti.png" group-title="Vision",RCTI
-https://visionplus-stream.visionplus.id/live/eds/RCTI-Indonesia/sa_hls/RCTI-Indonesia-avc1_2499968=7-mp4a_98800_eng=3.m3u8
-
-#EXTINF:-1 tvg-id="GTV.id" tvg-name="GTV" tvg-logo="https://dl.dropboxusercontent.com/s/fcc2sbh556rtp08/gtv.png" group-title="Vision",GTV
-https://visionplus-stream.visionplus.id/live/eds/GTV-Perjuangan/sa_hls/GTV-Perjuangan-avc1_2499968=7-mp4a_98800_eng=3.m3u8
-
-#EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNC TV" tvg-logo="https://dl.dropboxusercontent.com/s/541aydqr502xl5z/mnctv.png" group-title="Vision",MNC TV
-https://visionplus-stream.visionplus.id/live/eds/MNCTV-Merdeka/sa_hls/MNCTV-Merdeka-avc1_2499968=7-mp4a_98800_eng=3.m3u8
-
-#EXTINF:-1 tvg-id="TransTV.id" tvg-name="Trans TV" tvg-logo="https://dl.dropboxusercontent.com/s/9kjgtxf2mufmyd2/transtv.png" group-title=Vision",Trans TV
-https://visionplus-stream.visionplus.id/live/eds/TRANSTV-autobot/sa_hls/TRANSTV-autobot-avc1_2499968=6-mp4a_98800_eng=3.m3u8
-
-#EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans7" tvg-logo="https://dl.dropboxusercontent.com/s/p4813vn2o8275z1/trans7.png" group-title="Vision",Trans 7
-https://visionplus-stream.visionplus.id/live/eds/TRANS7-transformer/sa_hls/TRANS7-transformer-avc1_2499968=6-mp4a_98800_eng=5.m3u8
-
-#EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="https://dl.dropboxusercontent.com/s/8n9oj3d529o9w1g/antv.png" group-title="Vision",ANTV
-https://visionplus-stream.visionplus.id/live/eds/ANTV-radeon/sa_hls/ANTV-radeon-avc1_1000000=5-mp4a_98800_eng=6.m3u8
-
-
 
 ======VOD FILM INDO =======
 
