@@ -718,16 +718,6 @@ http://62.131.92.221:60530/play/a088
 https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/KPOP.m3u8
 #EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/1092s.png" group-title="Music", Жара Kids TV HD
 http://hls-zhara.cdnvideo.ru/zhara/zhara/playlist.m3u8
-#EXTINF:-1 group-title="LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png",Mentari TV
-https://geocities.ws/ariev7xx/mentari.m3u8
-#EXTINF:-1 group-title="LOKAL" tvg-logo="https://thumbor.prod.vidiocdn.com/dQRcxVzWpqnq1ATYhtadyL4kcZw=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-5955b6.jpg",Moji TV 
-https://geocities.ws/ariev7xx/moji.m3u8
-
-
-
-
-
-
 
 =========
 
