@@ -547,8 +547,6 @@ http://hls-zhara.cdnvideo.ru/zhara/zhara/playlist.m3u8
 
 =========
 
-#EXTINF:0 tvg-id="NHKWorldPremium.jp" tvg-name="NHK World Premium" tvg-logo="https://i.postimg.cc/s2G8kgXX/nhkpre.png"  group-title="JAPAN",NHK PREMIUM 
-http://123.30.146.172:21585/500/video.m3u8
 #EXTINF:-1 tvg-id="MTVJapan.jp" tvg-name="MTV Japan" tvg-logo="https://i.postimg.cc/G2z0YbqS/mtv-music-television-logo-B016199701-seeklogo-com.png" group-title="JAPAN",MTV Japan 
 http://123.30.146.172:21585/501/video.m3u8
 #EXTINF:-1 tvg-id="KidsStation.jp" tvg-name="Kids Station" group-title="JAPAN", tvg-logo="https://static.wikia.nocookie.net/animax/images/5/5c/Kids_Station_%28logo%29.png", Kids Station キッズステーションHD J
