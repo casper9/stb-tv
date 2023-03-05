@@ -14,7 +14,9 @@ http://210.210.155.37/uq2663/h/h06/index.m3u8
 https://m-rcti.rctiplus.id/rcti-sdi.m3u8|referer=https://m.rctiplus.com/
 
 #EXTINF:-1 tvg-id="GTV.id" tvg-name="GTV" tvg-logo="https://dl.dropboxusercontent.com/s/fcc2sbh556rtp08/gtv.png" group-title="INDONESIA",GTV
-https://m-gtv.rctiplus.id/gtv-sdi.m3u8|referer=https://m.rctiplus.com/
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://d322b885qvsbxg.cloudfront.net/GTV2021.m3u8
+
 
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNC TV" tvg-logo="https://dl.dropboxusercontent.com/s/541aydqr502xl5z/mnctv.png" group-title="INDONESIA",MNC TV
 https://m-mnctv.rctiplus.id/mnctv-sdi.m3u8|referer=https://m.rctiplus.com/
